@@ -1,4 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
-
+/* classes css global */
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.pink{
+    color: #A5174E;
+}
+.gray{
+    color: #5E656C;
+}
+.background-gray{
+    background-color: #8b8b8b;
+}
+.v-middle{
+    vertical-align: middle;
+}
+.red{
+    color: crimson;
+}
